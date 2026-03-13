@@ -1,3 +1,4 @@
 identifies.json
 sessions.json
 .env
+node_modules
