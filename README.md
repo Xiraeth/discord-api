@@ -1,4 +1,4 @@
-An application that interacts directly with the Discord API.
+An application that interacts directly with the [Discord API](https://docs.discord.com/developers/reference).
 
 Instead of using one of the existing libraries that abstract the entire logic in extremely easy to use functions and methods, i prefer trying to connect and set up everything on my own, just to get a feel for the entire process.
 
